@@ -1,0 +1,19 @@
+{
+  "title": "Contact Us",
+  "name.min": "Name must be at least 2 characters.",
+  "email.invalid": "Please enter a valid email address.",
+  "message.min": "Message must be at least 10 characters.",
+  "captcha.required": "Captcha is required.",
+  "captcha.incorrect": "Incorrect captcha solution.",
+  "name.label": "Name",
+  "name.placeholder": "Name",
+  "email.label": "Email",
+  "email.placeholder": "virtuart@virtuart4d.com",
+  "message.label": "Message",
+  "message.placeholder": "Tell us about your project",
+  "captcha.placeholder": "Enter the captcha",
+  "submit.idle": "Submit",
+  "submit.submitting": "Submitting...",
+  "success": "Message sent successfully!",
+  "error": "Failed to send message. Please try again."
+}

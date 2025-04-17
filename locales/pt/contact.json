@@ -1,0 +1,19 @@
+{
+  "title": "Entre em Contato",
+  "name.min": "O nome deve ter pelo menos 2 caracteres.",
+  "email.invalid": "Por favor, insira um endereço de email válido.",
+  "message.min": "A mensagem deve ter pelo menos 10 caracteres.",
+  "captcha.required": "O captcha é obrigatório.",
+  "captcha.incorrect": "Solução de captcha incorreta.",
+  "name.label": "Nome",
+  "name.placeholder": "Nome",
+  "email.label": "Email",
+  "email.placeholder": "virtuart@virtuart4d.com",
+  "message.label": "Mensagem",
+  "message.placeholder": "Conte-nos sobre o seu projeto",
+  "captcha.placeholder": "Insira o captcha",
+  "submit.idle": "Enviar",
+  "submit.submitting": "A enviar...",
+  "success": "Mensagem enviada com sucesso!",
+  "error": "Falha ao enviar mensagem. Por favor, tente novamente."
+}

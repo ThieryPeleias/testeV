@@ -1,0 +1,32 @@
+{
+  "greeting": "Hello",
+  "services": "Services",
+  "events": "Events",
+  "clients": "Clients",
+  "contact": "Contact",
+   "footer_text": "© {year} Virtuart Portfolio. All rights reserved.",
+  "cta": {
+    "title": "Pronto para elevar o seu projeto?",
+    "description": "Contacte-nos hoje para saber mais sobre o nosso planeamento BIM 4D e serviços Unreal Engine."
+  },
+  "featured_projects": "Projetos em Destaque",
+  "project_title_1": "Título do Projeto 1",
+  "project_description_1": "Breve descrição do projeto 1.",
+  "project_title_2": "Título do Projeto 2",
+  "project_description_2": "Breve descrição do projeto 2.",
+  "project_title_3": "Título do Projeto 3",
+  "project_description_3": "Breve descrição do projeto 3.",
+  "our_esteemed_clients": "Nossos Clientes Estimados",
+  "events": "Eventos",
+  "digital_construction_week": "Semana da Construção Digital",
+  "digital_construction_week_description": "Apresentando inovações na construção digital em Londres|Reino Unido.",
+  "infrabim": "infraBIM",
+  "infrabim_description": "Evento BIM mais importante da Europa Central.",
+  "projektowanie_przyszlosci": "Projektowanie Przyszłości",
+  "projektowanie_przyszlosci_description": "Conferência dedicada ao BIM realizada em Cracóvia|Polónia.",
+  "cta": {
+    "title": "Pronto para Transformar a Sua Visão?",
+    "description": "Vamos discutir como a VirtuArt4D pode ajudá-lo a atingir os seus objetivos com as nossas soluções 3D de ponta."
+  },
+  "contact_us": "Entre em Contato"
+}

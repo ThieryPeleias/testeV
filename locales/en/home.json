@@ -1,0 +1,18 @@
+{
+  "hero_title": "BIM 4D Planning with Unreal Engine Experiences",
+  "hero_subtitle": "Visualize your projects like never before.",
+  "services_title": "Our Services",
+  "service_1": {
+    "title": "BIM 4D Planning",
+    "description": "Boost technical proposals and bids with 4D planning that clarifies projects and optimizes time and resources."
+  },
+  "service_2": {
+    "title": "Unreal Engine Experiences",
+    "description": "Visualize logistics and BIM 4D in stunning photorealism, enhancing clarity and impact in project planning."
+  },
+  "service_3": {
+    "title": "Immersive Visualization",
+    "description": "Bring projects to life with immersive visuals that offer insights and support informed decisions at every stage."
+  },
+  "watch_on_youtube": "Watch on YouTube"
+}
